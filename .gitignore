@@ -1,0 +1,7 @@
+# Build output only
+build/
+sdkconfig.old
+
+# OS
+Thumbs.db
+.DS_Store

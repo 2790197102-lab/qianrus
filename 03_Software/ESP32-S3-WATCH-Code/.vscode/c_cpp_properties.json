@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Espressif/frameworks/esp-idf-v5.2.6\\**",
+        "C:/Users/71454/Desktop/ESP32-S3-WATCH-Code/components/lvgl"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+     "compilerPath": "C:\\Espressif\\tools\\riscv32-esp-elf\\esp-13.2.0_20250707\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe"
+    }
+  ],
+  "version": 4
+}
