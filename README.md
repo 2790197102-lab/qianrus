@@ -3,9 +3,9 @@
 > 基于 ESP32-S3-R8 的全栈嵌入式智能穿戴项目，涵盖 **硬件设计 → 固件开发 → 上位机软件** 完整产品链路。
 
 <p align="center">
-  <img src="assets/images/watch_dial.jpg" alt="表盘展示" width="32%" />
-  <img src="assets/images/watch_game.jpg" alt="游戏菜单" width="32%" />
-  <img src="assets/images/watch_compass.jpg" alt="电子罗盘" width="32%" />
+  <img src="images/watch_dial.jpg" alt="表盘展示" width="32%" />
+  <img src="images/watch_game.jpg" alt="游戏菜单" width="32%" />
+  <img src="images/watch_compass.jpg" alt="电子罗盘" width="32%" />
 </p>
 
 <p align="center"><strong>表盘 · 游戏菜单 · 电子罗盘</strong></p>
@@ -28,7 +28,7 @@
 
 ## 系统架构
 
-![系统架构图](assets/images/system_architecture.jpg)
+![系统架构图](images/system_architecture.png)
 
 ### 架构说明
 
@@ -142,7 +142,7 @@ esp32-multifunctional-watch-master/
 │   └── ESP-Watch-UpperComputerv1.1/  # Qt5 上位机源码
 │       ├── widget.cpp/h         # 主逻辑（串口/JSON/配置）
 │       └── widget.ui            # UI 设计文件
-└── assets/images/               # README 图片资源
+└── images/               # README 图片资源
 ```
 
 ---
